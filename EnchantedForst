@@ -1,0 +1,9 @@
+def checkCoordinateSafety(x, y):
+    if x % 2 != 0 and y % 2 != 0:
+        return "true"
+    else:
+        return "false"
+    
+    
+if __name__ == "__main__":
+    print(checkCoordinateSafety(3, 3))
