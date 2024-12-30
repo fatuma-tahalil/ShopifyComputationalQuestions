@@ -1,4 +1,3 @@
-
 directionFacing = "north"
 directionsFacedString = []
 
